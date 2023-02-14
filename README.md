@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Shopify Store Setup
 - 😄 Pronouns: he/him
-- - 📫 How to reach me: ...
+- 📫 How to reach me: ...
 - ⚡ Fun fact: In real life I can do a backflip
